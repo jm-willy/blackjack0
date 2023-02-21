@@ -1,0 +1,38 @@
+
+  body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    background-color: darkgreen;
+    background-image: url(https://img.freepik.com/premium-vector/poker-table-background-green-color_47243-1073.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  section img{
+    height: auto !important;
+    max-width: 14em !important;
+    padding: 0.5em;
+  }
+
+  section {
+    padding: 3em !important;
+  }
+
+  .score {
+    background-color: whitesmoke;
+    padding: 0.5em !important;
+    font-size: larger;
+    font-weight: bolder;
+    max-width: 15em;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .score button{
+    margin-left: 0.1em;
+  }
+  .score div{
+    margin-right: 0.2em;
+    padding: 0.3em;
+    text-align: center;
+    justify-content: center;
+  }
